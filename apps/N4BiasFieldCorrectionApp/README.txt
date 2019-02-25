@@ -1,0 +1,1 @@
+This code is based on the implementation of the CLI filter for N4BiasFieldCorrection in Slicer.
